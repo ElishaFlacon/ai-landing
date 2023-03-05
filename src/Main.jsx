@@ -10,11 +10,8 @@ function Main() {
     return (
         <main className='main' >
 
-            <div className="big-text" id='main'>
-                О нас
-            </div>
 
-            <div className='about'>
+            <div className='about' id='main'>
 
 
 

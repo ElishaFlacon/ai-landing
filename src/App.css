@@ -263,7 +263,7 @@ body::-webkit-scrollbar-thumb {
     align-items: center;
     justify-content: center;
     display: flex;
-    padding: 0 0 120px 0;
+    padding: 100px 0 120px 0;
 }
 
 .big-text {
@@ -277,7 +277,8 @@ body::-webkit-scrollbar-thumb {
 .about .about-header-text {
     font-weight: 700;
     font-size: 1.563rem;
-    line-height: 1.125em
+    line-height: 1.125em;
+    padding-bottom: 15px;
 }
 
 .about .about-box {
@@ -388,20 +389,49 @@ body::-webkit-scrollbar-thumb {
 
 
 /* АДАПТИВ */
-
 @media screen and (max-width: 550px) {
     .team {
         flex-direction: column;
     }
 
-    .about .about-box {
-        flex-direction: column;
+}
+
+@media screen and (max-width: 500px) {
+
+    .big-text {
+        font-size: 48px;
     }
 
-    .about .about-box:nth-child(even) {
-        flex-direction: column;
+    .about .about-header-text {
+        font-size: 36px;
+
+    }
+
+    .header {
+        font-size: 24px;
+    }
+
+    .about .about-box {
+        font-size: 24px;
+    }
+
+    .about .about-box {
+        font-size: 24px;
+    }
+
+    .team .name {
+        font-size: 36px;
+    }
+
+    .team .role {
+        font-size: 24px;
+    }
+
+    .team .link {
+        font-size: 24px;
     }
 }
+
 
 
 /* АДАПТИВ */
