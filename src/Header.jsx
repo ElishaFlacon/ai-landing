@@ -41,9 +41,9 @@ function Header() {
     return (
         <nav className='header' style={{ background: scroll > 1000 ? '#0E1525' : 'none' }}>
             <div className="container">
-                <a href='#main' className="box">О нас<div style={pointer(scroll, 1600, 2700)} /></a>
-                <a href='#team' className="box">Команда<div style={pointer(scroll, 2700, 3600)} /></a>
-                <a href='#test' className="box">Тест<div style={pointer(scroll, 3600, 8000)} /></a>
+                <a href='#main' className="box">О нас<div style={pointer(scroll, 1600, 2800)} /></a>
+                <a href='#team' className="box">Команда<div style={pointer(scroll, 2800, 3800)} /></a>
+                <a href='#test' className="box">Тест<div style={pointer(scroll, 3800, 8000)} /></a>
             </div>
         </nav>
     )
