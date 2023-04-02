@@ -1,5 +1,5 @@
 import React from 'react'
-import './App.css';
+import '../styles/App.css';
 
 
 
@@ -16,17 +16,17 @@ function Main() {
 
 
                 <div className="about-box">
-                    <img className='about-img' src={require('./assets/team.png')} alt="" />
+                    <img className='about-img' src={require('../assets/team.png')} alt="" />
                     <div className="about-text">
                         <div className='about-header-text'>
                             Кто мы
                         </div>
-                        Придумайте что тут написать я хз XD Lorem ipsum dolor sit amets, consectetur adipisicing elit. Quod, minus officiis alias cum Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero tempora soluta minima nostrum, deleniti.
+                        Lorem ipsum dolor sit amets, consectetur adipisicing elit. Quod, minus officiis alias cum Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero tempora soluta minima nostrum, deleniti.
                     </div>
                 </div>
 
                 <div className="about-box">
-                    <img className='about-img' src={require('./assets/technology.png')} alt="" />
+                    <img className='about-img' src={require('../assets/technology.png')} alt="" />
                     <div className="about-text">
                         <div className='about-header-text'>
                             Чем занимаемся
@@ -36,7 +36,7 @@ function Main() {
                 </div>
 
                 <div className="about-box">
-                    <img className='about-img' src={require('./assets/research.png')} alt="" />
+                    <img className='about-img' src={require('../assets/research.png')} alt="" />
                     <div className="about-text">
                         <div className='about-header-text'>
                             На кого нацелены
@@ -46,7 +46,7 @@ function Main() {
                 </div>
 
                 <div className="about-box">
-                    <img className='about-img' src={require('./assets/release.png')} alt="" />
+                    <img className='about-img' src={require('../assets/release.png')} alt="" />
                     <div className="about-text">
                         <div className='about-header-text'>
                             Результат, к которому мы стремимся
@@ -66,7 +66,7 @@ function Main() {
             <div className="team" >
 
                 <div className="team-box">
-                    <img className='team-img' src={require('./face_main.png')} alt="" />
+                    <img className='team-img' src={require('../assets/face_main.png')} alt="" />
                     <div className="name">
                         Сюзанна
                     </div>
@@ -77,7 +77,7 @@ function Main() {
                 </div>
 
                 <div className="team-box">
-                    <img className='team-img' src={require('./face_main.png')} alt="" />
+                    <img className='team-img' src={require('../assets/face_main.png')} alt="" />
                     <div className="name">
                         Алексей
                     </div>
@@ -88,7 +88,7 @@ function Main() {
                 </div>
 
                 <div className="team-box">
-                    <img className='team-img' src={require('./face_main.png')} alt="" />
+                    <img className='team-img' src={require('../assets/face_main.png')} alt="" />
                     <div className="name">
                         Сергей
                     </div>
@@ -99,7 +99,7 @@ function Main() {
                 </div>
 
                 <div className="team-box">
-                    <img className='team-img' src={require('./face_main.png')} alt="" />
+                    <img className='team-img' src={require('../assets/face_main.png')} alt="" />
                     <div className="name">
                         Елисей
                     </div>
@@ -110,7 +110,7 @@ function Main() {
                 </div>
 
                 <div className="team-box">
-                    <img className='team-img' src={require('./face_main.png')} alt="" />
+                    <img className='team-img' src={require('../assets/face_main.png')} alt="" />
                     <div className="name">
                         Юлия
                     </div>
@@ -121,7 +121,7 @@ function Main() {
                 </div>
 
                 <div className="team-box">
-                    <img className='team-img' src={require('./face_main.png')} alt="" />
+                    <img className='team-img' src={require('../assets/face_main.png')} alt="" />
                     <div className="name">
                         Мария
                     </div>
@@ -132,7 +132,7 @@ function Main() {
                 </div>
 
                 <div className="team-box">
-                    <img className='team-img' src={require('./face_main.png')} alt="" />
+                    <img className='team-img' src={require('../assets/face_main.png')} alt="" />
                     <div className="name">
                         Данил
                     </div>
@@ -143,7 +143,7 @@ function Main() {
                 </div>
 
                 <div className="team-box">
-                    <img className='team-img' src={require('./face_main.png')} alt="" />
+                    <img className='team-img' src={require('../assets/face_main.png')} alt="" />
                     <div className="name">
                         Александр
                     </div>

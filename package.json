@@ -1,6 +1,6 @@
 {
-    "homepage": "https://elishaflacon.github.io/project-pd",
-    "name": "project-pd",
+    "homepage": "https://elishaflacon.github.io/ai-landing/",
+    "name": "ai-landing",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
