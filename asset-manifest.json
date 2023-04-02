@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/project-pd/static/css/main.e417711e.css",
-    "main.js": "/project-pd/static/js/main.cab1ca46.js",
-    "static/media/face_line.png": "/project-pd/static/media/face_line.898d4e3ed4ee4ee82c28.png",
-    "static/media/technology.png": "/project-pd/static/media/technology.d247c92d2ac34fec4fb0.png",
-    "static/media/team.png": "/project-pd/static/media/team.7a26062b5b942a1fad6a.png",
-    "static/media/face_main.png": "/project-pd/static/media/face_main.36995411c3b311cedf57.png",
-    "static/media/research.png": "/project-pd/static/media/research.aea221810ec208ecc145.png",
-    "static/media/release.png": "/project-pd/static/media/release.6ad9dd628f1c21df9477.png",
-    "static/media/face_background.png": "/project-pd/static/media/face_background.8d233c50cecc4b482c87.png",
-    "static/media/face_dot.png": "/project-pd/static/media/face_dot.3769b35adeedbc2265cf.png",
-    "index.html": "/project-pd/index.html",
-    "main.e417711e.css.map": "/project-pd/static/css/main.e417711e.css.map",
-    "main.cab1ca46.js.map": "/project-pd/static/js/main.cab1ca46.js.map"
+    "main.css": "/ai-landing/static/css/main.ed47e196.css",
+    "main.js": "/ai-landing/static/js/main.c997ab44.js",
+    "static/media/face_line.png": "/ai-landing/static/media/face_line.898d4e3ed4ee4ee82c28.png",
+    "static/media/technology.png": "/ai-landing/static/media/technology.d247c92d2ac34fec4fb0.png",
+    "static/media/team.png": "/ai-landing/static/media/team.7a26062b5b942a1fad6a.png",
+    "static/media/face_main.png": "/ai-landing/static/media/face_main.36995411c3b311cedf57.png",
+    "static/media/research.png": "/ai-landing/static/media/research.aea221810ec208ecc145.png",
+    "static/media/release.png": "/ai-landing/static/media/release.6ad9dd628f1c21df9477.png",
+    "static/media/face_background.png": "/ai-landing/static/media/face_background.8d233c50cecc4b482c87.png",
+    "static/media/face_dot.png": "/ai-landing/static/media/face_dot.3769b35adeedbc2265cf.png",
+    "index.html": "/ai-landing/index.html",
+    "main.ed47e196.css.map": "/ai-landing/static/css/main.ed47e196.css.map",
+    "main.c997ab44.js.map": "/ai-landing/static/js/main.c997ab44.js.map"
   },
   "entrypoints": [
-    "static/css/main.e417711e.css",
-    "static/js/main.cab1ca46.js"
+    "static/css/main.ed47e196.css",
+    "static/js/main.c997ab44.js"
   ]
 }
